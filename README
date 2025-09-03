@@ -1,0 +1,5 @@
+In arXiv: 2509.00424, we develop a extend density matrix method to solve open quantum systems.  In this project, we illustrate how to use this method to solve the spin-boson model and Gaudin model. 
+
+In this method, the extended density matrix tensor is represented by a matrix product state (MPS) though time-local tensors. The effect of environment is captured by the correlation tensor, which shares a matrix product operator (MPO) structure. The applying of the correlation tensor on the extended density matrix tensor follows the standard MPO-MPS algorithm. 
+
+The Julia language  is used in the programming and the Mathematica program is used for illustrating obtained results.  The numerical data and plot file can be found in the dataPlot folder. 
